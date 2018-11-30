@@ -16,7 +16,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
                 return
         }
 
-        fmt.Fprintln(w, "Hello, Gopher Network!")
+        fmt.Fprintln(w, "1 John 3:23-24 - And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment. And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us. - www.BibleStory.info")
 }
 
 func main() {
